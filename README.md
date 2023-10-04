@@ -13,5 +13,5 @@ res = segmenter.segment(["sentence 1", "sentence 2"])
 HyperSum:
 ```python
 summarizer = Summarizer()
-res = summarizer.summarize("Text to summarize")
+res = summarizer.summarize(["sentence 1", "sentence 2"])
 ```
