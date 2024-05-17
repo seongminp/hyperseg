@@ -1,7 +1,8 @@
 # hyperseg
 Code for 
-- "Unsupervised Dialogue Topic Segmentation in Hyperdimensional Space" (Interspeech 2023)
-- "Unsupervised Extractive Dialogue Summarization In Hyperdimensional Space" (ICASSP 2024)
+-
+- [Unsupervised Dialogue Topic Segmentation in Hyperdimensional Space](https://arxiv.org/abs/2308.10464) (Interspeech 2023)
+- [Unsupervised Extractive Dialogue Summarization In Hyperdimensional Space](https://arxiv.org/abs/2405.09765) (ICASSP 2024)
 
 
 HyperSeg:
